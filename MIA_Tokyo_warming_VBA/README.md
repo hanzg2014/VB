@@ -1,6 +1,7 @@
 ### 東京気温変動分析 1962 ~ 2012
 
-VBA程序
+#### VBA程序
+
 ```
 Rem Whether a year is a lunar year or not
 Function IsLunarYear(y As Integer) As Boolean
@@ -81,3 +82,17 @@ End Sub
 
 
 ```
+
+---
+
+#### 參考
+
+Excel VBA 程式設計教學：函數（Function）與子程序（Sub）
+https://blog.gtwang.org/programming/excel-vba-function-and-sub/2/
+
+6小時，寫了一篇適合Excel小白學的VBA入門教程 
+https://www.zixundingzhi.com/Excel/940aa5f9b7e09704.html
+
+Getting Started with VBA in Office
+https://msdn.microsoft.com/VBA/office-shared-vba/articles/getting-started-with-vba-in-office
+'''&amp; i 改成 & i 就好了'''
